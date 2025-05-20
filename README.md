@@ -6,9 +6,6 @@
 <h2>Using Hannah Library in your code</h2>
 
 <pre><code>
-if game:GetService("CoreGui").HannahUI ~= nil then
-        game:GetService("CoreGui").HannahUI:Destroy()
-end
 
 local HannahUI = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -200,10 +197,10 @@ local function toggle(name, func)
 end
 </code></pre>
 <div align=center>
-  <h1>Creating Elements</h2>
+  <h1>Creating Elements</h1>
 </div>
 <h2>Creating toggles</h2>
-<code><pre>
+<pre><code>
   
 toggle("Toggle", function(callback)
     if callback then
@@ -213,7 +210,7 @@ toggle("Toggle", function(callback)
     end
 end)
   
-</pre></code>
+</code></pre>
 <h2>Creating buttons</h2>
 <pre><code>
   
