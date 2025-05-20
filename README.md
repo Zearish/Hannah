@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Zearish/Hannah/refs/heads/main/PinkHannahIcon.png" width="400" />
   <h1>Uopgrade your script using Hannah!</h1>
 </div>
-<b><h3>Hannah was created by a first time ui library creator, meaning this is my first UI library (EVER), might have some bugs.</h3></b>
+<b><h3>Hannah was created by a first time ui library creator, meaning this is my first UI library, might have some bugs.</h3></b>
 <h2>Using Hannah Library in your code</h2>
 
 <pre><code>
