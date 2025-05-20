@@ -202,17 +202,21 @@ end
 </div>
 <h2>Creating toggles</h2>
 <code><pre>
-  toggle("Toggle", function(callback)
+  
+toggle("Toggle", function(callback)
     if callback then
         print("Toggle on")
     else
         print("Toggle off")
     end
 end)
+  
 </pre></code>
 <h2>Creating buttons</h2>
 <pre><code>
-  button("Button", function()
+  
+button("Button", function()
     print("Button clicked")
 end)
+
 </code></pre>
