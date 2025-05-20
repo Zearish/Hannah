@@ -142,6 +142,7 @@ UIListLayout.Padding = UDim.new(0, 15)
 
 local function button(name, func)
     local button = Instance.new("TextButton")
+    button.AutoButtonColor = false
     button.Name = name
     button.Parent = ScrollingFrame
     button.BackgroundColor3 = Color3.fromRGB(199, 101, 102)
