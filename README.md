@@ -3,6 +3,7 @@
   <h1>Uopgrade your script using Hannah!</h1>
 </div>
 <h2>Using Hannah Library in your code</h2>
+<b>Hannah was created by a first time ui library creator, meaning this is my first UI library (EVER), might have some bugs.</b>
 <pre><code>
 if game:GetService("CoreGui").HannahUI ~= nil then
         game:GetService("CoreGui").HannahUI:Destroy()
